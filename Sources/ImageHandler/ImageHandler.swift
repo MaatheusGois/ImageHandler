@@ -9,8 +9,7 @@
 import UIKit
 
 public class ImageHandler: NSObject {
-    
-    static var share = ImageHandler()
+    static public let share = ImageHandler()
     private override init() {}
     
     // Picker Image
