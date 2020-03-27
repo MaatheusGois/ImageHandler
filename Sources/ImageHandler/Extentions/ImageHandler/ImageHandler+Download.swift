@@ -7,7 +7,7 @@
 
 import UIKit
 
-enum ImageDownloadResponse: Error {
+public enum ImageDownloadResponse: Error {
     case success(answer: UIImage)
     case error(description: String)
 }

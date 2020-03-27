@@ -13,7 +13,7 @@ public enum ImageUploadResponse: Error {
 }
 
 extension ImageHandler {
-    func uploadRequest(url: String,
+    public func uploadRequest(url: String,
                        image: UIImage,
                        imageName name: String,
                        compression: CGFloat,
