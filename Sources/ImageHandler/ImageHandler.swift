@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ImageHandler: NSObject {
+public class ImageHandler: NSObject {
     
     static var share = ImageHandler()
     private override init() {}
