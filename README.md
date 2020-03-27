@@ -3,7 +3,7 @@ This **handler** is to helper you with your image manager in your projects.
 
 
 ## Preview  
-<img src="./public/preview.gif"/>  
+<img src="https://i.ibb.co/kyfqs3f/preview.gif"/>  
 
 
 ## Examples  
