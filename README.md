@@ -3,8 +3,7 @@ This **handler** is to helper you with your image manager in your projects.
 
 
 ## Preview  
-<img src="https://i.ibb.co/kyfqs3f/preview.gif"/>  
-
+<a href="https://ibb.co/6ZxD7vx"><img src="https://i.ibb.co/thtYTZt/preview.gif" alt="preview" border="0" /></a>
 
 ## Examples  
 - [Server](https://github.com/MaatheusGois/ImageUpload)
