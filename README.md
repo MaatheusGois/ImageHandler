@@ -7,7 +7,7 @@ This **handler** is to helper you with your image manager in your projects.
 <img src="https://github.com/MaatheusGois/ImageUpload/blob/example/public/preview.gif"/>
 
 ## Examples  
-- [Serveron Github](https://github.com/MaatheusGois/ImageUpload)
+- [Server on Github](https://github.com/MaatheusGois/ImageUpload)
 
 ### Usage  
 
